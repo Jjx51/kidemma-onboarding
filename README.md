@@ -1,6 +1,27 @@
-![Bienvenido](https://raw.githubusercontent.com/Jjx51/kidemma-onboarding/main/images/bienvenido.png)
 
-# Kidemma 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jjx51/kidemma-onboarding/main/images/bienvenido.png" />
+</p>
+
+# Kidemma – Iniciativa de aprendizaje de Mobility
+
+![Status](https://img.shields.io/badge/status-active-success)
+![Type](https://img.shields.io/badge/type-learning%20initiative-blue)
+![Platform](https://img.shields.io/badge/platform-mobile-orange)
+![Focus](https://img.shields.io/badge/focus-compose%20%7C%20swiftui-purple)
+![Testing](https://img.shields.io/badge/focus-testing-important)
+
+## Table of Contents
+
+- [Objetivo de la iniciativa](#objetivo-de-la-iniciativa)
+- [¿De donde surge la idea de este proyecto?](#de-donde-surge-la-idea-de-este-proyecto)
+- [¿Qué ofrece esta iniciativa?](#qué-ofrece-esta-iniciativa)
+- [¿Cómo se alinea Kidemma con el capability?](#cómo-se-alinea-kidemma-con-el-capability)
+- [¿De qué trata la aplicación?](#de-qué-trata-la-aplicación)
+- [¿Cómo funciona la iniciativa?](#cómo-funciona-la-iniciativa)
+- [¿Cómo participar?](#cómo-participar)
+- [Estado del proyecto y agradecimientos](#estado-del-proyecto-y-agradecimientos)
+- [Contacto](#contacto)
 
 **Kidemma** es una iniciativa dentro del capability de Mobility que tiene como objetivo ofrecer a sus miembros un espacio de aprendizaje donde puedan poner en práctica sus habilidades técnicas trabajando en un proyecto real. A través de esta iniciativa, los desarrolladores tienen la oportunidad de colaborar en equipo, compartir conocimiento y aprender nuevas tecnologías mientras contribuyen al desarrollo de una aplicación.
 
